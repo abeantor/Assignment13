@@ -1,1 +1,56 @@
 Text
+Account Settings
+(Each has an edit button to be able to change it)
+Name
+Email
+Password 
+Address
+2 step Authentication
+
+Address Book
+Add New Address (Link to site to add new address)
+Search Address
+
+
+Name
+Address
+Edit/Delete(Link)
+Phone Number	
+
+
+View Orders(Link)
+
+
+Payment Options
+ List all credit cards 
+
+
+Type of Card
+Last 4 digits of card
+Expires
+
+
+Can click on each one to view more info 
+
+Name
+Billing Address
+Edit/Delete
+Set as Default Card
+
+
+Notifications
+Sublinks: Email Notifications, Text Notifications, Messages from Sellers
+
+Email Notifications
+List of subscriptions/ notifications  				Link to unsubscribe 
+
+Text Notifications
+
+Subscription status
+
+Phone Number    Link to change the number
+
+Messages from Sellers
+
+List of Messages sorted by most recent			Date
+
